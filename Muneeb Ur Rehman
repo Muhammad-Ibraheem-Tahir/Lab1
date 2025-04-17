@@ -4,8 +4,8 @@ class Program
 {
     static void Main()
     {
-        string name = "Muhammad Ibraheem Tahir"; 
-        string rollNumber = "24-ST-019"; 
+        string name = "Muneeb Ur Rehman"; 
+        string rollNumber = "24-ST-023"; 
         string department = "Software Engineering Technology"; 
 
         string[] subjects = { 
